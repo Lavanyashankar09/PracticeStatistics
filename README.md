@@ -1,1 +1,2 @@
 # PracticeStatistics
+Statistics practice problems
